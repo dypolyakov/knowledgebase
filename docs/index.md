@@ -15,3 +15,6 @@
     docs/
         index.md  # Главная страница документации.
         ...       # Другие markdown страницы, изображения и другие файлы.
+
+:smile:
+:fontawesome-regular-face-laugh-wink:
