@@ -1,5 +1,7 @@
 Исходное изображение
-![telegram-peer-photo-size-2-28471519050049472-1-0-0](../assets/attachments/telegram-peer-photo-size-2-28471519050049472-1-0-0.webp)
+
+![telegram-peer-photo-size-2-28471519050049472-1-0-0](../assets/attachments/telegram-peer-photo-size-2-28471519050049472-1-0-0.webp){width=300}
+
 ## Low Poly Art
 
 | ![Pasted image 20250516221448](../assets/attachments/Pasted%20image%2020250516221448.webp) | ![Pasted image 20250516221516](../assets/attachments/Pasted%20image%2020250516221516.webp)       |
