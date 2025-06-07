@@ -1,4 +1,4 @@
-site_name: usu
+site_name: USU.SU
 site_url: https://usu.su
 theme:
   name: material
@@ -28,6 +28,8 @@ theme:
         name: Switch to system preference
   features:
     - content.code.copy
+    - search.highlight
+    - search.suggest
 extra:
   generator: false
 markdown_extensions:
@@ -59,3 +61,4 @@ markdown_extensions:
 
 plugins:
   - glightbox
+  - search

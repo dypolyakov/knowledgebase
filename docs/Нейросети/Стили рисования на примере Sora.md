@@ -109,13 +109,13 @@
 
 | ![Pasted image 20250519165837](../assets/attachments/Pasted%20image%2020250519165837.webp) | ![Pasted image 20250519165843](../assets/attachments/Pasted%20image%2020250519165843.webp) |
 | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
-| ![[Pasted image 20250519165847.png]]                                                       | ![[Pasted image 20250519165851.png]]                                                       |
+| ![Pasted image 20250519165847](../assets/attachments/Pasted%20image%2020250519165847.webp) | ![Pasted image 20250519165851](../assets/attachments/Pasted%20image%2020250519165851.webp) |
 
 Перерисуй изображение в стиле Chibi Style, vector graphics, solid pastel colors, no gradients
 
 | ![Pasted image 20250521143305](../assets/attachments/Pasted%20image%2020250521143305.webp) | ![Pasted image 20250521143310](../assets/attachments/Pasted%20image%2020250521143310.webp) |
 | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
-| ![[Pasted image 20250521143314.png]]                                                       | ![[Pasted image 20250521143318.png]]                                                       |
+| ![Pasted image 20250521143314](../assets/attachments/Pasted%20image%2020250521143314.webp) | ![Pasted image 20250521143318](../assets/attachments/Pasted%20image%2020250521143318.webp) |
 
 ## Kawaii
 
