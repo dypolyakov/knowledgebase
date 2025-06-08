@@ -1,0 +1,15 @@
+/* Общие стили */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold !important;
+  color: var(--md-typeset-heading-color) !important;
+}
+
+/* Светлая тема */
+:root {
+  --md-typeset-heading-color: #000000;
+}
+
+/* Тёмная тема */
+[data-md-color-scheme="slate"] {
+  --md-typeset-heading-color: #ffffff;
+}

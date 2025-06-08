@@ -12,7 +12,7 @@ theme:
     - media: "(prefers-color-scheme)"
       toggle:
         icon: material/brightness-auto
-        name: Switch to light mode
+        name: Системная тема
 
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -20,7 +20,7 @@ theme:
       accent: pink
       toggle:
         icon: material/brightness-7
-        name: Switch to dark mode
+        name: Светлая тема
 
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
@@ -28,13 +28,15 @@ theme:
       accent: pink
       toggle:
         icon: material/brightness-4
-        name: Switch to system preference
+        name: Темная тема
   features:
     - content.code.copy
     - search.highlight
     - search.suggest
 extra:
   generator: false
+extra_css:
+  - assets/stylesheets/extra.css
 markdown_extensions:
   - nl2br
 
