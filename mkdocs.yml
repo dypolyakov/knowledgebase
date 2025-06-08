@@ -3,8 +3,8 @@ site_url: https://usu.su
 theme:
   name: material
   language: ru
-  logo: assets/logo.svg
-  favicon: assets/logo.svg
+  logo: assets/usu-logo.png
+  favicon: assets/usu-logo.png
   palette:
     - media: "(prefers-color-scheme)"
       toggle:
