@@ -5,6 +5,9 @@ theme:
   language: ru
   logo: assets/usu-logo.png
   favicon: assets/usu-logo.png
+  font:
+    text: Roboto
+    code: Roboto Mono
   palette:
     - media: "(prefers-color-scheme)"
       toggle:
