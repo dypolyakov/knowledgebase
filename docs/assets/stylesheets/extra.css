@@ -1,7 +1,17 @@
 /* Общие стили */
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-weight: bold !important;
   color: var(--md-typeset-heading-color) !important;
+}
+
+.md-typeset .admonition,
+.md-typeset details {
+  font-size: .75rem;
 }
 
 /* Светлая тема */
