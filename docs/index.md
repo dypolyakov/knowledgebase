@@ -1,23 +1,22 @@
-# Добро пожаловать в MkDocs
-
-Для полной документации перейдите по ссылке [mkdocs.org](https://www.mkdocs.org).
-
-## Команды
-
-* `mkdocs new [dir-name]` - Создать новый проект.
-* `mkdocs serve` - Запустить live-сервер.
-* `mkdocs build` - Сбилдить сайт документации.
-* `mkdocs -h` - Напечатать справку.
-
-## Структура проекта
-
-    mkdocs.yml    # Конфигурационный файл.
-    docs/
-        index.md  # Главная страница документации.
-        ...       # Другие markdown страницы, изображения и другие файлы.
-
+# Главная
 
 [Поиск иконок](https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/#search)
 
+обычный текст
+**жирный текст**
+*курсивный текст*
+==хайлайт текст==
+`текст`
 
+```python
+name = "Dima"
+print(name);
+```
+
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
 
