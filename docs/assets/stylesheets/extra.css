@@ -16,11 +16,11 @@ h6 {
 
 @font-face {
   font-family: "Excalifont";
-  src: "../fonts/Excalifont-Regular.woff2";
+  src: url("../fonts/Excalifont-Regular.woff2");
 }
 
 :root {
-  --md-text-font: "Excalifont"; 
+  --md-text-font: "Excalifont";
 }
 
 /* Светлая тема */
