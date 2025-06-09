@@ -9,17 +9,17 @@ theme:
     text: Roboto
     code: Roboto Mono
   palette:
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/brightness-auto
-        name: Системная тема
+    # - media: "(prefers-color-scheme)"
+      # toggle:
+        # icon: material/brightness-auto
+        # name: Системная тема
 
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: white
       accent: pink
       toggle:
-        icon: material/brightness-7
+        icon: material/toggle-switch-off-outline
         name: Светлая тема
 
     - media: "(prefers-color-scheme: dark)"
@@ -27,7 +27,7 @@ theme:
       primary: black
       accent: pink
       toggle:
-        icon: material/brightness-4
+        icon: material/toggle-switch
         name: Темная тема
   features:
     - content.code.copy
