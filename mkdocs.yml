@@ -19,7 +19,7 @@ theme:
       primary: white
       accent: pink
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/toggle-switch
         name: Светлая тема
 
     - media: "(prefers-color-scheme: dark)"
@@ -27,7 +27,7 @@ theme:
       primary: black
       accent: pink
       toggle:
-        icon: material/toggle-switch
+        icon: material/toggle-switch-off-outline
         name: Темная тема
   features:
     - content.code.copy
