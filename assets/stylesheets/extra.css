@@ -1,0 +1,34 @@
+/* Общие стили */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: bold !important;
+  color: var(--md-typeset-heading-color) !important;
+}
+
+.md-typeset .admonition,
+.md-typeset details {
+  font-size: .75rem;
+}
+
+@font-face {
+  font-family: "Excalifont";
+  src: url("../fonts/Excalifont-Regular.woff2");
+}
+
+:root {
+  --md-text-font: "Excalifont";
+}
+
+/* Светлая тема */
+:root {
+  --md-typeset-heading-color: #000000;
+}
+
+/* Тёмная тема */
+[data-md-color-scheme="slate"] {
+  --md-typeset-heading-color: #ffffff;
+}
