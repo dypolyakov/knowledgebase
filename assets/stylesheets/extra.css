@@ -1,0 +1,42 @@
+/* Толщина и цвет заголовков */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: bold !important;
+  color: var(--md-typeset-heading-color) !important;
+}
+
+/* Размер шрифта в admoniton */
+.md-typeset .admonition,
+.md-typeset details {
+  font-size: .75rem;
+}
+
+/* Шрифт */
+@font-face {
+  font-family: "Excalifont";
+  src: url("../fonts/Excalifont-Regular.woff2");
+}
+
+:root {
+  --md-text-font: "Excalifont";
+}
+
+/* Светлая тема */
+:root {
+  --md-typeset-heading-color: #000000;
+}
+
+/* Тёмная тема */
+[data-md-color-scheme="slate"] {
+  --md-typeset-heading-color: #ffffff;
+}
+
+/* Ссылки */
+.md-typeset a {
+  color: var(--md-accent-fg-color);
+  text-decoration: underline;
+}
