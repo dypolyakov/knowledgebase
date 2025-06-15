@@ -6,7 +6,7 @@ h4,
 h5,
 h6 {
   font-weight: bold !important;
-  color: var(--md-typeset-heading-color);
+  color: var(--md-typeset-heading-color) !important;
 }
 
 /* Размер шрифта в admoniton */
